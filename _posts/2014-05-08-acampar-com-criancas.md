@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cuidados a ter durante o campismo
+title: Acampar com crianças
 ---
 
 #{{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cuidados a ter durante o campismo
+title: Atividades para fazer durante o acampamento
 ---
 
 #{{ page.title }}
