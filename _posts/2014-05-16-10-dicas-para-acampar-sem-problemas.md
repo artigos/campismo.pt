@@ -3,11 +3,11 @@ layout: default
 title: 10 dicas para acampar sem problemas
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Acampar é sem dúvida uma das melhores sensações da vida, permitindo a quem pratica conhecer a natureza, ter contacto direto com ela, adormecer com o som da natureza, acordar com o nascer do dia, ter uma vida saudável mas ainda assim abdicar do conforto do dia-a-dia para viver esta experiência. Para que tudo corra na perfeição é importante que tenha alguns cuidados, quer na preparação da viagem quer depois durante o acampamento.
 
-##10 Dicas para acampar
+## 10 Dicas para acampar
 
 1. Preparação da viagem: Antes de sair de casa é necessário que conheça o local onde vai acampar, prepare o roteiro, planeje a viagem (caso vá de carro);
 2. Despesas: O planeamento da viagem é muito importante, pelo que planear as despesas que vai ter é um fator muito importante para que tudo corra bem. Claro que não poderá saber ao certo o valor total que irá gastar durante as férias, contudo é possível fazer uma previsão das despesas, fazendo as contas ao que terá de pagar no total do campismo, na alimentação, sabendo assim quanto é que pode gastar nas férias propriamente ditas, para que nada corra mal;
